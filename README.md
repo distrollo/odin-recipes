@@ -1,2 +1,2 @@
 # odin-recipes
-Webpage with a collection of recipes.
+A web development project - creating a webpage containing a collection of recipes.
