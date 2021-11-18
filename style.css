@@ -1,0 +1,84 @@
+/* style.css */
+
+html {
+    margin:10px 500px 10px 500px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
+    color:black;
+    background-color:darkgrey;
+}
+
+* {
+    padding: 0px 0px 4px 0px;
+    color: black;
+    background-color: white;
+}
+
+img {
+    padding: 10px 10px 10px 10px;
+    float:left;
+    width:200px;
+    height:auto;
+}
+
+h1 {
+    padding: 20px 0px 10px 0px;
+    color:black;
+    background-color:lightslategrey;
+    font-weight: 600;
+    text-shadow: 0.5px 0.5px lightseagreen;
+    text-decoration-line:underline;
+    text-decoration-color:orangered;
+    clear: both;
+    box-shadow: 3px 2px 2px #0f0f0f;
+}
+
+h2 {
+    margin-left: 20px;
+    text-align: left;
+    color:black;
+    text-shadow: 0.5px 0.5px lightgrey;
+}
+
+li {
+    margin-left: 100px;
+}
+
+.ali {
+    padding: 10px 200px 10px 200px;
+    text-align: left;
+    color:blue;
+    list-style: none;
+}
+
+.description {
+    padding: 10px 10px 10px 10px;
+    clear: right;
+    text-align: left;
+}
+
+.ingredients {
+    margin: 10px 200px 10px 100px;
+    padding: 10px 10px 10px 10px;
+    clear: both;
+    text-align: left;
+    list-style: square;
+}
+
+.directions {
+    margin: 10px 200px 10px 100px;
+    padding: 10px 10px 10px 10px;
+    clear: both;
+    text-align: left;
+}
+
+a {
+    text-align: left;
+    color: purple;
+    text-shadow: 0.5px 0.5px lightgrey;
+}
+
+a:hover {
+    color: blue;
+    text-shadow: 0.5px 0.5px lightpink;
+}
