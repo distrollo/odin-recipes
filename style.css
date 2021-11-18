@@ -52,6 +52,7 @@ li {
 }
 
 .description {
+    font-weight: 300;
     padding: 10px 10px 10px 10px;
     clear: right;
     text-align: left;
